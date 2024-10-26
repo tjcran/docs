@@ -48,7 +48,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart"
+        "quickstart",
+        "security"
         
       ]
     },
@@ -61,7 +62,7 @@
     {
       "group": "Call Recording",
       "pages": [
-        "api-reference/introduction"
+        "pages/recording/bbrecorder"
       ]
     },
     {
