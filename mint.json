@@ -18,24 +18,19 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@buildbetter.app"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://app.buildbetter.app"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://buildbetter.ai/docs"
     },
     {
       "name": "Community",
@@ -45,7 +40,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://blog.buildbetter.ai"
     }
   ],
   "navigation": [
@@ -53,12 +48,12 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "getting started"
+        
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Account Set-up",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,17 +64,41 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Call Recording",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Meeting and Calendar integrations",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Call Summaries and Transcripts",
+      "pages": [
+        
+      ]
+    },
+     {
+      "group": "Documents and Reports",
+      "pages": [
+        
+      ]
+    },
+     {
+      "group": "Chat",
+      "pages": [
+        
+      ]
+    },
+     {
+      "group": "Integrations",
+      "pages": [
+        
       ]
     }
   ],
