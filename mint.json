@@ -80,25 +80,33 @@
     {
       "group": "Call Summaries and Transcripts",
       "pages": [
-        
+        "Summaries"
       ]
     },
      {
       "group": "Documents and Reports",
       "pages": [
-        
+        "Creating a Document",
+        "Docuent Templates",
+        "Reports",
+        "Exporting Documents"
       ]
     },
      {
       "group": "Chat",
       "pages": [
-        
+        "Chat Basics",
+        "Prompt Ideas",
+        "Scheduled Prompts"
+
       ]
     },
      {
       "group": "Integrations",
       "pages": [
-        
+        "CRM Integrations",
+        "Support Integrations",
+        "Document and Knowledgebase Integrations"
       ]
     }
   ],
