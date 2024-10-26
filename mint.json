@@ -62,7 +62,7 @@
     {
       "group": "Call Recording",
       "pages": [
-        "pages/recording/bbrecorder"
+        "pages/recording/callrecording"
       ]
     },
     {
