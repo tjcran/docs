@@ -48,19 +48,14 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "getting started"
+        "quickstart"
         
       ]
     },
     {
       "group": "Account Set-up",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "Security"
       ]
     },
     {
@@ -72,9 +67,7 @@
     {
       "group": "Meeting and Calendar integrations",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "Calendar Integrations"
       ]
     },
     {
